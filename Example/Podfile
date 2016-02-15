@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'IOS-Styler_Example', :exclusive => true do
+  pod 'IOS-Styler', :path => '../'
+end
+
+target 'IOS-Styler_Tests', :exclusive => true do
+  pod 'IOS-Styler', :path => '../'
+
+  
+end
