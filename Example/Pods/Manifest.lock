@@ -1,0 +1,14 @@
+PODS:
+  - IOS-Styler (0.1.0)
+
+DEPENDENCIES:
+  - IOS-Styler (from `../`)
+
+EXTERNAL SOURCES:
+  IOS-Styler:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IOS-Styler: 3cc4205ce72ee3bea6ec26c165e4813659235d09
+
+COCOAPODS: 0.39.0
